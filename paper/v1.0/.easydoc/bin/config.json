@@ -1,0 +1,12 @@
+{
+  "basePath": "../../",
+  "inputFile": "paper.md",
+  "outputDir": "./out",
+  "outputFile": "Paper.pdf",
+  "filters": [
+    "pandoc-crossref"
+  ],
+  "bibliography": true,
+  "bibFile": "books.bib",
+  "cslFile": "./csl/din-1505-2-numeric-alphabetical.csl"
+}
