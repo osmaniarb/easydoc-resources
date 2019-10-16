@@ -1,4 +1,4 @@
 {
-  "linux": "./bin/make.js",
-  "win32": "node ./bin/make.js"
+  "linux": ".easydoc/bin/make.js",
+  "win32": "node .easydoc/bin/make.js"
 }
