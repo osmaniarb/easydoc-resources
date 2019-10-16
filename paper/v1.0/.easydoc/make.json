@@ -1,0 +1,4 @@
+{
+  "linux": "./bin/make.js",
+  "win32": "node ./bin/make.js"
+}
