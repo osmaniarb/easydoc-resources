@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /**
  * make script for markdown to pdf via pandoc
  *
